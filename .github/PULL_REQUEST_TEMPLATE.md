@@ -7,11 +7,11 @@
 ## How should this be manually tested?
 
 ## Does this MR meet the acceptance criteria?
-- [ ] Commit message conform to [style guide](https://github.com/GettUK/gett_ui/wiki/Commit-message)
+- [ ] Commit messages conform to [style guide](https://github.com/GettUK/gett_ui/wiki/Commit-message)
 - [ ] Screenshots added
 - [ ] Tests added for this feature/bug
-- [ ] Utility files (`structure.sql`) removed from PR
+- [ ] Utility files (`structure.sql`) doesn't exist in PR
 - [ ] Commits logically organized or squashed
 - [ ] Branch has no merge conflicts with master
+- [ ] A self-review of my own code performed
 - [ ] All tests passed
-- [ ] I have performed a self-review of my own code
